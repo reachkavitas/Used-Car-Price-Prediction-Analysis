@@ -15,11 +15,14 @@ Primary Influencers of Car Price:
 4.Fuel Type and Vehicle Type: Different fuel types and vehicle types also affect pricing. For instance, SUVs and trucks often have higher prices compared to sedans, and hybrid or electric vehicles might command a premium.
 
 Model Performance:
+
 After applying polynomial feature transformations and time series cross-validation, the model achieved a Test R-squared of 0.5952 and a Mean Absolute Error (MAE) of $5,778.51. This indicates that the model explains approximately 59.5% of the variance in car prices and makes predictions with an average error of around $5,779.
 The model’s performance was relatively strong, especially after accounting for non-linear relationships between features and price using polynomial features.
 
 Challenges Identified:
+
 Inconsistent Performance Over Time: The model’s performance varied significantly across different time periods, with some folds in the time series cross-validation yielding negative R-squared values. This suggests that the market conditions or data characteristics changed during certain periods, affecting the model’s ability to predict accurately.
+
 Potential Data Anomalies: The large discrepancies in cross-validation results may point to the presence of outliers or structural breaks in the data that need to be further investigated.
 
 # Recommendations
