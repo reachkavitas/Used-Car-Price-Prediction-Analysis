@@ -30,6 +30,7 @@ Potential Data Anomalies: The large discrepancies in cross-validation results ma
 
 # Recommendations
 Inventory Optimization:
+
 1.Focus on Newer, Low-Mileage Cars: Since newer cars with lower mileage consistently fetch higher prices, prioritize acquiring vehicles that fit this profile.
 
 2.Condition Matters: Emphasize sourcing cars in "excellent" or "new" condition, as these are significantly more valuable.
