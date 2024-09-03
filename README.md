@@ -10,8 +10,11 @@ The dataset used for this analysis includes various attributes of used cars, suc
 Primary Influencers of Car Price:
 
 1.Year of Manufacture: Newer cars generally command higher prices. This relationship was captured moderately well by the model, indicating that age is a significant but not sole determinant of price.
+
 2.Odometer Reading: As expected, higher mileage tends to lower a car’s value. The model consistently showed a negative correlation between odometer readings and car prices.
+
 3.Condition: The condition of the vehicle plays a crucial role in determining its price. Cars in "new" or "excellent" condition are priced significantly higher than those in "fair" or "salvage" condition.
+
 4.Fuel Type and Vehicle Type: Different fuel types and vehicle types also affect pricing. For instance, SUVs and trucks often have higher prices compared to sedans, and hybrid or electric vehicles might command a premium.
 
 Model Performance:
