@@ -31,14 +31,16 @@ Potential Data Anomalies: The large discrepancies in cross-validation results ma
 # Recommendations
 Inventory Optimization:
 1.Focus on Newer, Low-Mileage Cars: Since newer cars with lower mileage consistently fetch higher prices, prioritize acquiring vehicles that fit this profile.
+
 2.Condition Matters: Emphasize sourcing cars in "excellent" or "new" condition, as these are significantly more valuable.
+
 3.Diversify Fuel and Vehicle Types: Consider maintaining a diverse inventory with a mix of fuel types and vehicle types, especially as demand for SUVs, trucks, and hybrid/electric vehicles continues to grow.
 
-Further Model Refinement:
+# Further Model Refinement:
 Address Inconsistencies: Investigate the time periods where the model performed poorly to identify any underlying causes, such as market shifts or data quality issues.
 Advanced Modeling: Explore more advanced time series models or ensemble methods that may provide more stable performance across different market conditions.
 
-Continuous Monitoring:
+# Continuous Monitoring:
 Regularly update the model with new data to capture any emerging trends in the used car market. Continuous retraining will help maintain the model's accuracy over time.
 
 # Conclusion
