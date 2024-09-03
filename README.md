@@ -38,7 +38,9 @@ Inventory Optimization:
 
 # Further Model Refinement:
 Address Inconsistencies: Investigate the time periods where the model performed poorly to identify any underlying causes, such as market shifts or data quality issues.
-Advanced Modeling: Explore more advanced time series models or ensemble methods that may provide more stable performance across different market conditions.
+
+# Advanced Modeling: 
+Explore more advanced time series models or ensemble methods that may provide more stable performance across different market conditions.
 
 # Continuous Monitoring:
 Regularly update the model with new data to capture any emerging trends in the used car market. Continuous retraining will help maintain the model's accuracy over time.
